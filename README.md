@@ -1,4 +1,12 @@
 # 🧠 AutoEncoders for Dimensionality Reduction & Feature Learning
+![Made with Python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)
+![TensorFlow/Keras](https://img.shields.io/badge/Framework-TensorFlow%2FKeras-blue)
+![AutoEncoder](https://img.shields.io/badge/Model-AutoEncoder-green)
+![Dataset](https://img.shields.io/badge/Dataset-MNIST-orange)
+![Task](https://img.shields.io/badge/Task-Dimensionality%20Reduction-yellowgreen)
+![Notebook](https://img.shields.io/badge/Notebook-Jupyter-yellow)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 
 This project demonstrates how AutoEncoders can be used for **dimensionality reduction**, **data visualization**, and **hidden feature extraction** using neural networks. It compresses and reconstructs images from the MNIST dataset to reveal underlying patterns in data.
 
